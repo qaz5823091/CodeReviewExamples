@@ -4,7 +4,6 @@ fun main(args:Array<String>){
   val num2 = 5
   val num3 = 2
   val max = 0
-  
   if(num1 > num2)
   {
     if(num1 > num3)
