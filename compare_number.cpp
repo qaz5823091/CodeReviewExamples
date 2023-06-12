@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int num1=0, num2 = 0, num3 = 0, num4 = 0; //initailize variables
+    int num1=0, num2 = 0, num3 = 0, num4 = 0,   num5; //initailize variables
     cout<<"please input 3 number" << endl;
     cin >> num1 >> num2>>num3;
 
