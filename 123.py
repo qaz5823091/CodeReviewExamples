@@ -1,2 +1,2 @@
 int a = 5
-print(a < 0)
+cout << (a < 0) << endl;
